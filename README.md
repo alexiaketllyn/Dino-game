@@ -1,1 +1,3 @@
-# Jogo do dinossauro sem internet, usando apenas HTML, CSS e JS
+Dio Dino Game
+Dino game for Digital Innovation One's lesson, using only JS, HTML and CSS
+
