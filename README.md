@@ -10,4 +10,4 @@ Dino game for Digital Innovation One's lesson, using only JS, HTML and CSS.
 
 O site foi implantado no GitHub Pages no link [https://alexiaketllyn.github.io/GH-Dino-game/](https://alexiaketllyn.github.io/GH-Dino-game/).
 
-
+<img src="/GH-Dino-game/example.png" alt="Jogo do dinossauro sem internet"/>
